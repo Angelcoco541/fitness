@@ -1,0 +1,281 @@
+body{
+    color: white;
+}
+
+.out ul a{
+    color: white;
+}
+
+.out ul{
+    float: right;
+    list-style: none;
+    padding: 2px;
+    margin-top: -65px;
+    position: relative;
+    left: -40px;
+}
+.out ul li{
+    display: inline-flex;
+    margin: 30px;
+}
+
+.out h1{
+    position: relative;
+    left: 65px;
+    top: 8px;
+    font-size: 23px;
+}
+
+.team img{
+    position: relative;
+    top: 70px;
+    left: 60px;
+    width: 300px;
+}
+
+.team h1{
+    position: relative;
+    top: -5px;
+    left: 60px;
+    font-size: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image img{
+    position: relative;
+    top: -420px;
+    left: 490px;
+}
+
+.image p{
+    color: white;
+    position: relative;
+    top: -680px;
+    left: 70px;
+    font-size: 12px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.pix img{
+    position: relative;
+    top: -900px;
+    left: 900px;
+    width: 150px;
+}
+
+.image button{
+    background-color: rgb(24, 151, 52);
+    border-radius: 5px;
+    height: 50px;
+    width: 130px;
+    border: 2px solid rgb(75, 151, 45);
+    position: relative;
+    bottom: 170px;
+    top: -650px;
+    left: 70px;
+    
+}
+
+.image a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    position: relative;
+    top: -1px;
+}
+
+.pix button{
+    background-color: rgb(24, 23, 23);
+    border-radius: 5px;
+    height: 54px;
+    width: 130px;
+    border: 2px solid rgb(7, 7, 7);
+    position: relative;
+    bottom: 170px;
+    top: -871px;
+    left: 230px;
+}
+
+.pix a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    position: relative;
+    top: -1px;
+}
+
+.cise{
+    position: relative;
+    top: -680px;
+}
+
+.cise h2{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 73px;
+}
+
+.cise p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 1150px;
+    top: -20px;
+    font-size: 10px;
+}
+
+.chick img{
+    position: relative;
+    top: -650px;
+    left: 55px;
+    margin: 20px;
+    width: 367px;
+}
+
+.zip img{
+    position: relative;
+    top: -650px;
+    left: 55px;
+    margin: 20px;
+    width: 367px;
+}
+
+.sec{
+    margin-left: 700px;
+    position: relative;
+    top: -530px;
+    left: -360px;
+}
+
+.sec h1{
+    font-size: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: -250px;
+    position: relative;
+    top: 70px;
+}
+
+.sec p{
+    color: white;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+    top: -270px;
+    left: 300px;
+}
+
+.sec img{
+    width: 400px;
+    position: relative;
+    top: -230px;
+    left: -400px;
+
+}
+
+.sec button{
+    background-color: rgb(24, 151, 52);
+    border-radius: 5px;
+    height: 50px;
+    width: 130px;
+    border: 2px solid rgb(75, 151, 45);
+    position: relative;
+    bottom: 170px;
+    top: -400px;
+    left: 303px;
+    
+}
+
+.sec a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    position: relative;
+    top: -1px;
+}
+.sec h1{
+    width: 300px;
+    line-height: 85px;
+}
+
+.grah img{
+    width: 550px;
+    height: 470px;
+    position: relative;
+    top: -740px;
+    left: 645px;
+}
+
+.blink h3, p{
+    color: red;
+
+}
+
+.grah h3, p{
+    position: relative;
+    top: -740px;
+    left: 650px;
+}
+
+.graze img{
+    width: 250px;
+    height: 268px;
+    position: relative;
+    top: -1005px;
+    left: 92px;
+}
+
+.graze h3, p{
+    position: relative;
+    top: -840px;
+    left: 350px;
+}
+
+.grass img{
+    width: 306px;
+    position: relative;
+    top: -1017px;
+    left: 339px;
+}
+
+.lick{
+    position: relative;
+    top: -500px;
+}
+
+.lick p{
+    color: white;
+}
+.muah p{
+    position: relative;
+    left: 90px;
+    top: -280px;
+    font-size: 25px;
+
+}
+
+.muah h2{
+    position: relative;
+    left: 390px;
+    top: -370px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.muah h4{
+    position: relative;
+    left: 1200px;
+    top: -450px;
+}
+
+.muah hr{
+    position: relative;
+    top: -400px;
+    left: -15px;
+    width: 1100px;
+}
+
+.muah p5{
+    position: relative;
+    top: -400px;
+    left: 400px;
+}
